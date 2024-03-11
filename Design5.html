@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image Gallery</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .image-container {
+      position: relative;
+      margin: 0 10px;
+    }
+
+    .download-button {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      padding: 10px;
+      background-color: #007bff;
+      color: #fff;
+      text-decoration: none;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .figma-link {
+      position: absolute;
+      
+      font-size: 25px;
+      bottom: 10px;
+      right: 10px;
+      text-decoration: none;
+      color: #007bff;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="image-container">
+    <img src="ds52.jpg" alt="Ảnh mô tả" width="800" height="400">
+    <a class="download-button" href="ds52.jpg" download="ds52.jpg">Download</a>
+  </div>
+
+  <div class="image-container">
+    <img src="ds5.png" alt="Ảnh mô tả" width="1000" height="500">
+    <a class="download-button" href="ds52.jpg" download="pic2.png">Download</a>
+    <a class="figma-link" href="https://www.figma.com/proto/XHvmK0CxHCSYG6oVFJagiH/Shopping?node-id=2-2&mode=design&t=XqYTczBQqZiJnxXJ-1" target="_blank">Go To Figma</a>
+  </div>
+
+</body>
+</html>

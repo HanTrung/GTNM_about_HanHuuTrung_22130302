@@ -1,0 +1,12 @@
+Người dùng: Trung - Người thích coi ảnh, podcast
+
+Mục tiêu: Lướt web giải trí
+
+Bước 1: T mở web ảnh trực tuyến trên trình duyệt web.
+
+Bước 2: T tìm kiếm chủ đề "núi rừng".
+
+Bước 3: T luớt các thông tin có trên web để giải trí và bấm tym những tấm ảnh đẹp
+
+Bước 4: T kiểm tra lại các tấm ảnh đã like và tải chúng về
+
